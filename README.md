@@ -10,6 +10,6 @@
   >
   > Learning Django
 
-- Rahat is interested in Web Development, Machine Learning, Data Science, IoT and many other things...
+- Rahat is interested in Web Development, Machine Learning, Data Science, IoT, Automation and many other things...
 
 - You can email Rahat on : rahatahmedchowdhuryrac@gmail.com
