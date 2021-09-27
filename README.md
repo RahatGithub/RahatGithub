@@ -8,7 +8,7 @@
   >
   > Learning Django
   >
-  > Working on "Project Online Shop" and "Project Firebooks"
+  > Working on "Project Online Shop"(E-commerce) and "Project Firebooks"(Book collection)
 
 - Rahat is interested in Web Development, Machine Learning, Data Science, IoT and many other things...
 
