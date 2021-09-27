@@ -6,9 +6,9 @@
   >
   > Working on Actuate Research & Consulting (www.actuatebd.com) as a Web Developer
   >
-  > Learning Django
-  >
   > Working on "Project Online Shop"(E-commerce) and "Project Firebooks"(Book collection)
+  >
+  > Learning Django
 
 - Rahat is interested in Web Development, Machine Learning, Data Science, IoT and many other things...
 
