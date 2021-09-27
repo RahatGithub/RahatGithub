@@ -12,4 +12,6 @@
 
 - Rahat is interested in Web Development, Machine Learning, Data Science, IoT, Automation and many other things...
 
+- Check Rahat's Linkedin profile : www.linkedin.com/in/rahat-ahmed-chowdhury/ 
+
 - You can email Rahat on : rahatahmedchowdhuryrac@gmail.com
