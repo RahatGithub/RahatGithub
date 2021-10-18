@@ -6,7 +6,7 @@
   >
   > Working on Actuate Research & Consulting (www.actuatebd.com) as a Web Developer
   >
-  > Working on "Project Online Shop"(E-commerce) and "Project Firebooks"(Book collection)
+  > Working on "Project Online Shop"(e-commerce) and "Project Firebooks"(Book collection)
   >
   > Learning Django
 
