@@ -1,6 +1,6 @@
 - Hi, it's Rahat!
 
-- Rahat is currently - 
+- He is currently - 
 
   > Studying Computer Science Engineering in Sylhet Engineering College
   >
@@ -12,8 +12,10 @@
 
 - Rahat is interested in Web Development, Machine Learning, Data Science, IoT, Automation and many other things...
 
-- Check Rahat's Linkedin profile : www.linkedin.com/in/rahat-ahmed-chowdhury/ 
+- Check his Linkedin profile : www.linkedin.com/in/rahat-ahmed-chowdhury/ 
 
-- Check Rahat's personal website : https://sites.google.com/view/rahat-ahmed
+- Visit his personal website : https://sites.google.com/view/rahat-ahmed
 
 - You can email Rahat on : rahatahmedchowdhuryrac@gmail.com
+
+- Thank you and have a nice day...
