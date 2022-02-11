@@ -4,11 +4,11 @@
 
   > Studying Computer Science Engineering at Sylhet Engineering College
   >
-  > Working as a Web Developer at Actuate Research & Consulting (www.actuatebd.com)
+  > Working as a Web Developer (Django) at Actuate Research & Consulting (www.actuatebd.com)
   >
   > Working on "Project Online Shop"(e-commerce)
   >
-  > Learning Django
+  > Learning React.js
 
 - Rahat is interested in Web Development, Machine Learning, Data Science, IoT, Automation and many other things...
 
