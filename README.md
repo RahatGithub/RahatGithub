@@ -10,7 +10,7 @@
   >
   > Learning React.js
 
-- Rahat is interested in Web Development, Machine Learning, Data Science, IoT, Automation and many other things...
+- Rahat is interested in Web Development, Machine Learning, Data Science, Automation and many other things...
 
 - Check his Linkedin profile : www.linkedin.com/in/rahat-ahmed-chowdhury/ 
 
