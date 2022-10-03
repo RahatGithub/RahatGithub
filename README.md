@@ -3,10 +3,12 @@
 - He is currently - 
 
   > Studying Computer Science Engineering at Sylhet Engineering College
-  >
-  > Working with Django Web Framework  
+  > 
+  > Doing a research on Deep Learning Image Processing
+  > 
+  > Learning Data Analysis and Machine Learning
 
-- Rahat is interested in Web Development, Machine Learning, Data Science, Automation and many other things...
+- Rahat is interested in Data Science, Machine Learning, Web Development, Automation and many other things...
 
 - Check his Linkedin profile : www.linkedin.com/in/rahat-ahmed-chowdhury/ 
 
