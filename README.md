@@ -4,7 +4,7 @@
 
   > Studying Computer Science Engineering at Sylhet Engineering College
   > 
-  > Doing a research on Deep Learning Image Processing
+  > Working on the project "Building a Result Management System for Sylhet Engineering College"  
   > 
   > Learning Data Analysis and Machine Learning
 
