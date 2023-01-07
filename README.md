@@ -4,7 +4,7 @@
 
   > Studying Computer Science Engineering at Sylhet Engineering College
   > 
-  > Working on the project "Building a Result Management System for Sylhet Engineering College"  
+  > Working on the project "Result Management System for Sylhet Engineering College"  
   > 
   > Learning Data Analysis and Machine Learning
 
