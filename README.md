@@ -1,17 +1,17 @@
 - Hi, it's Rahat!
 
-- He is currently - 
+- I am currently - 
 
   > Studying Computer Science Engineering at Sylhet Engineering College
   > 
-  > Working on the project "Result Management System for Sylhet Engineering College"  
+  > Doing research on Blockchain technology
   > 
-  > Learning Data Analysis and Machine Learning
+  > Learning Django REST Framework 
 
-- Rahat is interested in Data Science, Machine Learning, Web Development, Automation and many other things...
+- I am interested in Web Development, Blockchain, Automation and many other things...
 
-- Check his Linkedin profile : www.linkedin.com/in/rahat-ahmed-chowdhury/ 
+- Check my Linkedin profile : www.linkedin.com/in/rahat-ahmed-chowdhury/ 
 
-- You can email him on : rahatahmedchy01@gmail.com
+- You can email me on : rahatahmedchy01@gmail.com
 
 - Thank you and have a nice day...
