@@ -12,6 +12,6 @@
 
 - Check my Linkedin profile : www.linkedin.com/in/rahat-ahmed-chowdhury/ 
 
-- You can email me on : rahatahmedchy01@gmail.com
+- You can send an email on : rahatahmedchy01@gmail.com
 
 - Thank you and have a nice day...
