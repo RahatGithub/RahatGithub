@@ -1,17 +1,19 @@
-- Hi, it's Rahat!
+### Hi, it's Rahat!
 
-- I am currently - 
+I am a CS graduate who is passionate about his work. you can check some of my work here- 
 
-  > Studying Computer Science Engineering at Sylhet Engineering College
-  > 
-  > Doing research on Blockchain technology
-  > 
-  > Learning Django REST Framework 
+### PROJECTS: 
 
-- I am interested in Web Development, Blockchain, Automation and many other things...
+- StudyNest: https://github.com/RahatGithub/studynest
 
-- Check my Linkedin profile : www.linkedin.com/in/rahat-ahmed-chowdhury/ 
+- Ameaozon: https://github.com/RahatGithub/ameaozon
 
-- You can send an email on : rahatahmedchy01@gmail.com
+- Qboard: https://github.com/RahatGithub/QBoard    
 
-- Thank you and have a nice day...
+<br>
+
+Check my Linkedin profile : www.linkedin.com/in/rahat-ahmed-chowdhury/ 
+
+You can send an email on : rahatahmedchy01@gmail.com
+
+Thank you and have a nice day...
