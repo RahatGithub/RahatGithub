@@ -1,10 +1,9 @@
 ### Hi, it's Rahat!
 
-I am a CS graduate who is passionate about his work. you can check some of my work here- 
+Enthusiastic and adaptable Computer Science graduate and Pythonista with hands-on experience in web development, software engineering, and IT operations. Skilled in both frontend and backend technologies, with a strong foundation in software engineering, databases, AI, and project management. Proven ability to work in teams, communicate effectively, and turn ideas into working solutions.
 
-### PROJECTS: 
 
-## 🚀 My Projects
+### 🚀 My Projects
 
 <table>
   <tr>
@@ -60,20 +59,10 @@ I am a CS graduate who is passionate about his work. you can check some of my wo
       </a>
       <br />
       <b>FitHub</b>
-      <p>a gym subscription React app</p>
+      <p>a gym subscription app</p>
     </td>
   </tr>
-</table>
-
-
-
-
-
-- StudyNest: https://github.com/RahatGithub/studynest
-
-- Ameaozon: https://github.com/RahatGithub/ameaozon
-
-- Qboard: https://github.com/RahatGithub/QBoard    
+</table> 
 
 <br>
 
