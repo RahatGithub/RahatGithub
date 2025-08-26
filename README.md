@@ -6,6 +6,8 @@ I am a CS graduate who is passionate about his work. you can check some of my wo
 
 [![QBoard](https://raw.githubusercontent.com/RahatGithub/QBoard/main/static/img/Qboard.png)](https://github.com/RahatGithub/QBoard)
 
+[![Ameaozon](https://raw.githubusercontent.com/RahatGithub/ameaozon/main/static/images/logo-transparent.png)](https://github.com/RahatGithub/ameaozon)
+
 - StudyNest: https://github.com/RahatGithub/studynest
 
 - Ameaozon: https://github.com/RahatGithub/ameaozon
