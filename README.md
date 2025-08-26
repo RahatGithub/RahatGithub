@@ -56,11 +56,11 @@ I am a CS graduate who is passionate about his work. you can check some of my wo
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/RahatGithub/dummy">
-        <img src="https://via.placeholder.com/300x200.png?text=Dummy+Project" width="400px;" alt="Dummy"/>
+        <img src="https://github.com/RahatGithub/fithub-gym-app/blob/main/src/assets/thumbnail.png" width="400px;" alt="Fithub"/>
       </a>
       <br />
-      <b>Dummy</b>
-      <p>a dummy project</p>
+      <b>FitHub</b>
+      <p>a gym subscription React app</p>
     </td>
   </tr>
 </table>
