@@ -4,7 +4,7 @@ I am a CS graduate who is passionate about his work. you can check some of my wo
 
 ### PROJECTS: 
 
-<img src="https://raw.githubusercontent.com/RahatGithub/QBoard/main/static/img/Qboard.png" width="200">
+<img src="https://raw.githubusercontent.com/RahatGithub/QBoard/main/static/img/Qboard.png" width="400">
 
 [![QBoard](https://raw.githubusercontent.com/RahatGithub/QBoard/main/static/img/Qboard.png)](https://github.com/RahatGithub/QBoard)
 
