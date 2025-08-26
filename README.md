@@ -8,7 +8,7 @@ I am a CS graduate who is passionate about his work. you can check some of my wo
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="70%">
       <a href="https://github.com/RahatGithub/studynest">
         <img src="https://github.com/RahatGithub/studynest/blob/main/static/images/thumbnail.png" width="300px;" alt="StudyNest"/>
       </a>
@@ -16,7 +16,7 @@ I am a CS graduate who is passionate about his work. you can check some of my wo
       <b>StudyNest</b>
       <p>an eLearning application</p>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="70%">
       <a href="https://github.com/RahatGithub/ameaozon">
         <img src="https://github.com/RahatGithub/ameaozon/blob/main/static/images/thumbnail.png" width="300px;" alt="Ameaozon"/>
       </a>
@@ -27,7 +27,7 @@ I am a CS graduate who is passionate about his work. you can check some of my wo
   </tr>
   
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="70%">
       <a href="https://github.com/RahatGithub/QBoard">
         <img src="https://github.com/RahatGithub/QBoard/blob/main/static/img/Qboard.png" width="300px;" alt="QBoard"/>
       </a>
@@ -35,7 +35,7 @@ I am a CS graduate who is passionate about his work. you can check some of my wo
       <b>QBoard</b>
       <p>RESTful API for dashboard data</p>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="70%">
       <a href="https://github.com/RahatGithub/QuizWiz-Flask">
         <img src="https://github.com/RahatGithub/QuizWiz-Flask/blob/main/app/static/img/QuizWiz.png" width="300px;" alt="QuizWiz"/>
       </a>
@@ -46,7 +46,7 @@ I am a CS graduate who is passionate about his work. you can check some of my wo
   </tr>
   
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="70%">
       <a href="https://github.com/RahatGithub/unimarx-rms">
         <img src="https://github.com/RahatGithub/unimarx-rms/blob/main/screenshots/unimarx-cover.png" width="300px;" alt="Unimarx"/>
       </a>
@@ -54,7 +54,7 @@ I am a CS graduate who is passionate about his work. you can check some of my wo
       <b>Unimarx</b>
       <p>university result management system</p>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="70%">
       <a href="https://github.com/RahatGithub/dummy">
         <img src="https://via.placeholder.com/300x200.png?text=Dummy+Project" width="300px;" alt="Dummy"/>
       </a>
