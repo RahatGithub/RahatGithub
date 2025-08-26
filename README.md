@@ -57,7 +57,7 @@
       <p>university result management system</p>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/RahatGithub/dummy">
+      <a href="https://github.com/RahatGithub/fithub-gym-app">
         <img src="https://github.com/RahatGithub/fithub-gym-app/blob/main/src/assets/thumbnail.png" width="400px;" alt="Fithub"/>
       </a>
       <br />
