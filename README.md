@@ -1,9 +1,12 @@
 ### Hi, it's Rahat!
 
-Enthusiastic and adaptable Computer Science graduate and Pythonista with hands-on experience in web development, software engineering, and IT operations. Skilled in both frontend and backend technologies, with a strong foundation in software engineering, databases, AI, and project management. Proven ability to work in teams, communicate effectively, and turn ideas into working solutions.
+#### Enthusiastic and adaptable Computer Science graduate and Pythonista with hands-on experience in web development, software engineering, and IT operations. Skilled in both frontend and backend technologies, with a strong foundation in software engineering, databases, AI, and project management. Proven ability to work in teams, communicate effectively, and turn ideas into working solutions.
 
+#### Check my Linkedin profile : www.linkedin.com/in/rahat-ahmed-chowdhury/ 
 
-### 🚀 My Projects
+#### Send me email on : rahatahmedchy01@gmail.com
+
+## 🚀 My Projects
 
 <table>
   <tr>
@@ -66,8 +69,4 @@ Enthusiastic and adaptable Computer Science graduate and Pythonista with hands-o
 
 <br>
 
-Check my Linkedin profile : www.linkedin.com/in/rahat-ahmed-chowdhury/ 
-
-You can send an email on : rahatahmedchy01@gmail.com
-
-Thank you and have a nice day...
+### Thank you and have a nice day...
