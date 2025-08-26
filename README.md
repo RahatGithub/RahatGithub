@@ -8,17 +8,17 @@ I am a CS graduate who is passionate about his work. you can check some of my wo
 
 <table>
   <tr>
-    <td align="center" width="70%">
+    <td align="center" width="50%">
       <a href="https://github.com/RahatGithub/studynest">
-        <img src="https://github.com/RahatGithub/studynest/blob/main/static/images/thumbnail.png" width="300px;" alt="StudyNest"/>
+        <img src="https://github.com/RahatGithub/studynest/blob/main/static/images/thumbnail.png" width="400px;" alt="StudyNest"/>
       </a>
       <br />
       <b>StudyNest</b>
       <p>an eLearning application</p>
     </td>
-    <td align="center" width="70%">
+    <td align="center" width="50%">
       <a href="https://github.com/RahatGithub/ameaozon">
-        <img src="https://github.com/RahatGithub/ameaozon/blob/main/static/images/thumbnail.png" width="300px;" alt="Ameaozon"/>
+        <img src="https://github.com/RahatGithub/ameaozon/blob/main/static/images/thumbnail.png" width="400px;" alt="Ameaozon"/>
       </a>
       <br />
       <b>Ameaozon</b>
@@ -27,17 +27,17 @@ I am a CS graduate who is passionate about his work. you can check some of my wo
   </tr>
   
   <tr>
-    <td align="center" width="70%">
+    <td align="center" width="50%">
       <a href="https://github.com/RahatGithub/QBoard">
-        <img src="https://github.com/RahatGithub/QBoard/blob/main/static/img/Qboard.png" width="300px;" alt="QBoard"/>
+        <img src="https://github.com/RahatGithub/QBoard/blob/main/static/img/Qboard.png" width="400px;" alt="QBoard"/>
       </a>
       <br />
       <b>QBoard</b>
       <p>RESTful API for dashboard data</p>
     </td>
-    <td align="center" width="70%">
+    <td align="center" width="50%">
       <a href="https://github.com/RahatGithub/QuizWiz-Flask">
-        <img src="https://github.com/RahatGithub/QuizWiz-Flask/blob/main/app/static/img/QuizWiz.png" width="300px;" alt="QuizWiz"/>
+        <img src="https://github.com/RahatGithub/QuizWiz-Flask/blob/main/app/static/img/QuizWiz.png" width="400px;" alt="QuizWiz"/>
       </a>
       <br />
       <b>QuizWiz</b>
@@ -46,17 +46,17 @@ I am a CS graduate who is passionate about his work. you can check some of my wo
   </tr>
   
   <tr>
-    <td align="center" width="70%">
+    <td align="center" width="50%">
       <a href="https://github.com/RahatGithub/unimarx-rms">
-        <img src="https://github.com/RahatGithub/unimarx-rms/blob/main/screenshots/unimarx-cover.png" width="300px;" alt="Unimarx"/>
+        <img src="https://github.com/RahatGithub/unimarx-rms/blob/main/screenshots/unimarx-cover.png" width="400px;" alt="Unimarx"/>
       </a>
       <br />
       <b>Unimarx</b>
       <p>university result management system</p>
     </td>
-    <td align="center" width="70%">
+    <td align="center" width="50%">
       <a href="https://github.com/RahatGithub/dummy">
-        <img src="https://via.placeholder.com/300x200.png?text=Dummy+Project" width="300px;" alt="Dummy"/>
+        <img src="https://via.placeholder.com/300x200.png?text=Dummy+Project" width="400px;" alt="Dummy"/>
       </a>
       <br />
       <b>Dummy</b>
