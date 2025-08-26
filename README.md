@@ -4,52 +4,67 @@ I am a CS graduate who is passionate about his work. you can check some of my wo
 
 ### PROJECTS: 
 
-<div align="center">
+## 🚀 My Projects
 
-  <!-- Row 1 -->
-  <a href="https://github.com/RahatGithub/studynest">
-    <img src="https://raw.githubusercontent.com/RahatGithub/studynest/main/static/images/thumbnail.png" width="300px" /><br>
-    <b>StudyNest</b><br>
-    <sub>an eLearning application</sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/RahatGithub/ameaozon">
-    <img src="https://raw.githubusercontent.com/RahatGithub/ameaozon/main/static/images/thumbnail.png" width="300px" /><br>
-    <b>Ameaozon</b><br>
-    <sub>an eCommerce application</sub>
-  </a>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/RahatGithub/studynest">
+        <img src="https://github.com/RahatGithub/studynest/blob/main/static/images/thumbnail.png" width="300px;" alt="StudyNest"/>
+      </a>
+      <br />
+      <b>StudyNest</b>
+      <p>an eLearning application</p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/RahatGithub/ameaozon">
+        <img src="https://github.com/RahatGithub/ameaozon/blob/main/static/images/thumbnail.png" width="300px;" alt="Ameaozon"/>
+      </a>
+      <br />
+      <b>Ameaozon</b>
+      <p>an eCommerce application</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/RahatGithub/QBoard">
+        <img src="https://github.com/RahatGithub/QBoard/blob/main/static/img/Qboard.png" width="300px;" alt="QBoard"/>
+      </a>
+      <br />
+      <b>QBoard</b>
+      <p>RESTful API for dashboard data</p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/RahatGithub/QuizWiz-Flask">
+        <img src="https://github.com/RahatGithub/QuizWiz-Flask/blob/main/app/static/img/QuizWiz.png" width="300px;" alt="QuizWiz"/>
+      </a>
+      <br />
+      <b>QuizWiz</b>
+      <p>an interesting quiz game</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/RahatGithub/unimarx-rms">
+        <img src="https://github.com/RahatGithub/unimarx-rms/blob/main/screenshots/unimarx-cover.png" width="300px;" alt="Unimarx"/>
+      </a>
+      <br />
+      <b>Unimarx</b>
+      <p>university result management system</p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/RahatGithub/dummy">
+        <img src="https://via.placeholder.com/300x200.png?text=Dummy+Project" width="300px;" alt="Dummy"/>
+      </a>
+      <br />
+      <b>Dummy</b>
+      <p>a dummy project</p>
+    </td>
+  </tr>
+</table>
 
-  <br><br>
-
-  <!-- Row 2 -->
-  <a href="https://github.com/RahatGithub/QBoard">
-    <img src="https://raw.githubusercontent.com/RahatGithub/QBoard/main/static/img/Qboard.png" width="300px" /><br>
-    <b>QBoard</b><br>
-    <sub>RESTful API for dashboard data</sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/RahatGithub/QuizWiz-Flask">
-    <img src="https://raw.githubusercontent.com/RahatGithub/QuizWiz-Flask/main/app/static/img/QuizWiz.png" width="300px" /><br>
-    <b>QuizWiz</b><br>
-    <sub>an interesting quiz game</sub>
-  </a>
-
-  <br><br>
-
-  <!-- Row 3 -->
-  <a href="https://github.com/RahatGithub/unimarx-rms">
-    <img src="https://raw.githubusercontent.com/RahatGithub/unimarx-rms/main/screenshots/unimarx-cover.png" width="300px" /><br>
-    <b>Unimarx</b><br>
-    <sub>university result management system</sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/RahatGithub/dummy">
-    <img src="https://raw.githubusercontent.com/RahatGithub/dummy/main/static/images/dummy.png" width="300px" /><br>
-    <b>Dummy</b><br>
-    <sub>a dummy project</sub>
-  </a>
-
-</div>
 
 
 - StudyNest: https://github.com/RahatGithub/studynest
