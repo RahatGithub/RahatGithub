@@ -1,0 +1,84 @@
+<svg width="1200" height="160" viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="waveGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5ff" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#a855f7" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#ec4899" stop-opacity="0.6"/>
+    </linearGradient>
+
+    <linearGradient id="waveGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.4"/>
+      <stop offset="50%" stop-color="#ec4899" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#00f5ff" stop-opacity="0.4"/>
+    </linearGradient>
+
+    <linearGradient id="waveGrad3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ec4899" stop-opacity="0.7"/>
+      <stop offset="50%" stop-color="#00f5ff" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0.7"/>
+    </linearGradient>
+
+    <filter id="dotGlow">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Wave layer 1 (back, slowest, biggest amplitude) -->
+  <path fill="url(#waveGrad1)">
+    <animate attributeName="d"
+             values="M0,90 Q150,50 300,90 T600,90 T900,90 T1200,90 V160 H0 Z;
+                     M0,90 Q150,130 300,90 T600,90 T900,90 T1200,90 V160 H0 Z;
+                     M0,90 Q150,50 300,90 T600,90 T900,90 T1200,90 V160 H0 Z"
+             dur="9s"
+             repeatCount="indefinite"/>
+  </path>
+
+  <!-- Wave layer 2 (middle, medium speed) -->
+  <path fill="url(#waveGrad2)">
+    <animate attributeName="d"
+             values="M0,110 Q200,70 400,110 T800,110 T1200,110 V160 H0 Z;
+                     M0,110 Q200,150 400,110 T800,110 T1200,110 V160 H0 Z;
+                     M0,110 Q200,70 400,110 T800,110 T1200,110 V160 H0 Z"
+             dur="7s"
+             repeatCount="indefinite"/>
+  </path>
+
+  <!-- Wave layer 3 (front, fastest, smallest amplitude) -->
+  <path fill="url(#waveGrad3)">
+    <animate attributeName="d"
+             values="M0,130 Q100,110 200,130 T400,130 T600,130 T800,130 T1000,130 T1200,130 V160 H0 Z;
+                     M0,130 Q100,150 200,130 T400,130 T600,130 T800,130 T1000,130 T1200,130 V160 H0 Z;
+                     M0,130 Q100,110 200,130 T400,130 T600,130 T800,130 T1000,130 T1200,130 V160 H0 Z"
+             dur="5s"
+             repeatCount="indefinite"/>
+  </path>
+
+  <!-- Floating thank-you bubbles -->
+  <g>
+    <circle cx="200" cy="70" r="3" fill="#00f5ff" filter="url(#dotGlow)" opacity="0.8">
+      <animate attributeName="cy" values="70;30;70" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0;0.8" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="500" cy="60" r="2" fill="#a855f7" filter="url(#dotGlow)" opacity="0.7">
+      <animate attributeName="cy" values="60;20;60" dur="5s" begin="1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.7;0;0.7" dur="5s" begin="1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="800" cy="80" r="2.5" fill="#ec4899" filter="url(#dotGlow)" opacity="0.7">
+      <animate attributeName="cy" values="80;30;80" dur="7s" begin="0.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.7;0;0.7" dur="7s" begin="0.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1000" cy="50" r="2" fill="#00f5ff" filter="url(#dotGlow)" opacity="0.8">
+      <animate attributeName="cy" values="50;15;50" dur="6.5s" begin="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0;0.8" dur="6.5s" begin="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Thank you text -->
+  <text x="600" y="40" text-anchor="middle" font-family="'Courier New', monospace" font-size="13" fill="#94a3b8" letter-spacing="6" opacity="0.85">
+    ━ THANKS FOR SCROLLING ━
+  </text>
+</svg>
