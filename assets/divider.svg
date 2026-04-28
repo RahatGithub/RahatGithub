@@ -1,0 +1,54 @@
+<svg width="1200" height="40" viewBox="0 0 1200 40" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5ff" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#00f5ff" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#a855f7" stop-opacity="1"/>
+      <stop offset="80%" stop-color="#ec4899" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#ec4899" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="dotGlow">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Main line -->
+  <line x1="50" y1="20" x2="1150" y2="20" stroke="url(#lineGrad)" stroke-width="1.5"/>
+
+  <!-- Decorative pulsing dots at edges -->
+  <circle cx="50" cy="20" r="3" fill="#00f5ff" filter="url(#dotGlow)">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1150" cy="20" r="3" fill="#ec4899" filter="url(#dotGlow)">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2.5s" begin="1.25s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Center decorative diamond -->
+  <g transform="translate(600 20)">
+    <rect x="-5" y="-5" width="10" height="10" fill="#a855f7" filter="url(#dotGlow)" transform="rotate(45)">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Moving dot that travels across -->
+  <circle cy="20" r="4" fill="#00f5ff" filter="url(#dotGlow)">
+    <animate attributeName="cx" values="50;1150;50" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#00f5ff;#a855f7;#ec4899;#a855f7;#00f5ff" dur="8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Trailing dots -->
+  <circle cy="20" r="2" fill="#00f5ff" opacity="0.5" filter="url(#dotGlow)">
+    <animate attributeName="cx" values="20;1120;20" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#00f5ff;#a855f7;#ec4899;#a855f7;#00f5ff" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cy="20" r="1.5" fill="#00f5ff" opacity="0.3" filter="url(#dotGlow)">
+    <animate attributeName="cx" values="0;1100;0" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#00f5ff;#a855f7;#ec4899;#a855f7;#00f5ff" dur="8s" repeatCount="indefinite"/>
+  </circle>
+</svg>
