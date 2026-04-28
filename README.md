@@ -27,7 +27,14 @@
       <p>an eCommerce application</p>
     </td>
   </tr>
-   [![Velo SaaS](https://raw.githubusercontent.com/RahatGithub/velo-SaaS/main/docs/img/velo-cover.png)](https://github.com/RahatGithub/velo-SaaS) 
+   <td align="center" width="50%">
+    <a href="https://github.com/RahatGithub/velo-SaaS">                                                                                                                                                                    
+      <img src="https://github.com/RahatGithub/velo-SaaS/blob/main/docs/img/velo-cover.png" width="400px;" alt="Velo SaaS"/>
+    </a>                                                                                                                                                                                                                   
+    <br />                                                        
+    <b>Velo SaaS</b>
+    <p>Multi-tenant project management app</p>
+  </td>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/RahatGithub/QBoard">
