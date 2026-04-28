@@ -1,0 +1,202 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Animated mesh gradient background -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1b2a">
+        <animate attributeName="stop-color"
+                 values="#0d1b2a;#1b2a4e;#2a1b3a;#0d1b2a"
+                 dur="20s"
+                 repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#1a1a40">
+        <animate attributeName="stop-color"
+                 values="#1a1a40;#240046;#1e3a5f;#1a1a40"
+                 dur="20s"
+                 repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#1a0b2e">
+        <animate attributeName="stop-color"
+                 values="#1a0b2e;#0d1b2a;#240046;#1a0b2e"
+                 dur="20s"
+                 repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Color-shifting text gradient -->
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5ff">
+        <animate attributeName="stop-color"
+                 values="#00f5ff;#a855f7;#ec4899;#f59e0b;#00f5ff"
+                 dur="10s"
+                 repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#a855f7">
+        <animate attributeName="stop-color"
+                 values="#a855f7;#ec4899;#f59e0b;#00f5ff;#a855f7"
+                 dur="10s"
+                 repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Shine gradient for sweep effect -->
+    <linearGradient id="shineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="white" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00f5ff" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="white" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Glow filter -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Strong glow for accent dots -->
+    <filter id="strongGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Animated background -->
+  <rect width="1200" height="320" fill="url(#bgGrad)"/>
+
+  <!-- Subtle grid -->
+  <g stroke="#00f5ff" stroke-width="0.5" opacity="0.05">
+    <line x1="0" y1="80" x2="1200" y2="80"/>
+    <line x1="0" y1="160" x2="1200" y2="160"/>
+    <line x1="0" y1="240" x2="1200" y2="240"/>
+    <line x1="200" y1="0" x2="200" y2="320"/>
+    <line x1="400" y1="0" x2="400" y2="320"/>
+    <line x1="600" y1="0" x2="600" y2="320"/>
+    <line x1="800" y1="0" x2="800" y2="320"/>
+    <line x1="1000" y1="0" x2="1000" y2="320"/>
+  </g>
+
+  <!-- Floating particles -->
+  <g>
+    <circle cx="80" cy="60" r="1.5" fill="#00f5ff" filter="url(#glow)">
+      <animate attributeName="cy" values="60;40;60" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0.2;0.8" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="180" cy="240" r="1" fill="#ec4899" filter="url(#glow)">
+      <animate attributeName="cy" values="240;220;240" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;0.1;0.6" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="320" cy="100" r="2" fill="#a855f7" filter="url(#glow)">
+      <animate attributeName="cy" values="100;80;100" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.5;0.9;0.5" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="900" cy="60" r="1.5" fill="#00f5ff" filter="url(#glow)">
+      <animate attributeName="cy" values="60;90;60" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.4;0.9;0.4" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1080" cy="180" r="1" fill="#ec4899" filter="url(#glow)">
+      <animate attributeName="cy" values="180;200;180" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;0.2;0.6" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1020" cy="80" r="2" fill="#a855f7" filter="url(#glow)">
+      <animate attributeName="cy" values="80;120;80" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.7;0.3;0.7" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="600" cy="50" r="1" fill="white">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="450" cy="270" r="1.5" fill="#00f5ff" filter="url(#glow)">
+      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="750" cy="280" r="1" fill="#ec4899" filter="url(#glow)">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="220" cy="180" r="1" fill="#a855f7" filter="url(#glow)">
+      <animate attributeName="cx" values="220;240;220" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.4;0.9;0.4" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="980" cy="240" r="1.5" fill="#00f5ff" filter="url(#glow)">
+      <animate attributeName="cx" values="980;960;980" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;0.2;0.6" dur="7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Corner brackets that fade in -->
+  <g stroke="#00f5ff" stroke-width="2" fill="none">
+    <path d="M 100 60 L 60 60 L 60 100" opacity="0">
+      <animate attributeName="opacity" from="0" to="0.7" dur="0.8s" begin="0.3s" fill="freeze"/>
+    </path>
+    <path d="M 1100 60 L 1140 60 L 1140 100" opacity="0">
+      <animate attributeName="opacity" from="0" to="0.7" dur="0.8s" begin="0.3s" fill="freeze"/>
+    </path>
+    <path d="M 100 260 L 60 260 L 60 220" opacity="0">
+      <animate attributeName="opacity" from="0" to="0.7" dur="0.8s" begin="0.5s" fill="freeze"/>
+    </path>
+    <path d="M 1100 260 L 1140 260 L 1140 220" opacity="0">
+      <animate attributeName="opacity" from="0" to="0.7" dur="0.8s" begin="0.5s" fill="freeze"/>
+    </path>
+  </g>
+
+  <!-- Top label "INTRODUCING" -->
+  <text x="600" y="100" text-anchor="middle" font-family="'Courier New', monospace" font-size="13" fill="#00f5ff" letter-spacing="8" opacity="0">
+    ━━━━ INTRODUCING ━━━━
+    <animate attributeName="opacity" from="0" to="0.85" dur="1s" begin="0.7s" fill="freeze"/>
+  </text>
+
+  <!-- NAME — main headline with gradient -->
+  <text x="600" y="178" text-anchor="middle"
+        font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+        font-weight="900"
+        font-size="62"
+        letter-spacing="2"
+        fill="url(#textGrad)"
+        filter="url(#glow)"
+        opacity="0">
+    RAHAT AHMED CHOWDHURY
+    <animate attributeName="opacity" from="0" to="1" dur="1.5s" begin="1.2s" fill="freeze"/>
+    <animate attributeName="font-size" from="50" to="62" dur="1.5s" begin="1.2s" fill="freeze"/>
+  </text>
+
+  <!-- Animated underline -->
+  <line x1="600" y1="200" x2="600" y2="200" stroke="url(#textGrad)" stroke-width="2" opacity="0.8">
+    <animate attributeName="x1" from="600" to="220" dur="1.2s" begin="2.4s" fill="freeze"/>
+    <animate attributeName="x2" from="600" to="980" dur="1.2s" begin="2.4s" fill="freeze"/>
+  </line>
+
+  <!-- Tagline -->
+  <text x="600" y="234" text-anchor="middle"
+        font-family="'Courier New', monospace"
+        font-size="16"
+        fill="#cbd5e1"
+        letter-spacing="4"
+        opacity="0">
+    full-stack developer · saas architect · scalable systems
+    <animate attributeName="opacity" from="0" to="0.85" dur="1.5s" begin="3s" fill="freeze"/>
+  </text>
+
+  <!-- Animated status indicator -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="3.8s" fill="freeze"/>
+    <circle cx="528" cy="270" r="4" fill="#10b981" filter="url(#strongGlow)">
+      <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="4;5;4" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="540" y="275" font-family="'Courier New', monospace" font-size="13" fill="#10b981" letter-spacing="3">
+      ONLINE
+    </text>
+    <line x1="600" y1="270" x2="610" y2="270" stroke="#475569" stroke-width="1"/>
+    <text x="620" y="275" font-family="'Courier New', monospace" font-size="13" fill="#94a3b8" letter-spacing="3">
+      OPEN TO WORK
+    </text>
+  </g>
+
+  <!-- Shine sweep that loops -->
+  <rect width="350" height="320" fill="url(#shineGrad)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="4s" dur="0.5s" fill="freeze"/>
+    <animate attributeName="x" from="-350" to="1550" dur="7s" begin="4.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
