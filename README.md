@@ -200,32 +200,6 @@ I write code I'd want to maintain. I ship things that work.
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/RahatGithub/studynest">
-        <img src="https://github.com/RahatGithub/studynest/blob/main/static/images/thumbnail.png" width="400px;" alt="StudyNest"/>
-      </a>
-      <br />
-      <b>StudyNest</b>
-      <p>an eLearning application</p>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/RahatGithub/ameaozon">
-        <img src="https://github.com/RahatGithub/ameaozon/blob/main/static/images/thumbnail.png" width="400px;" alt="Ameaozon"/>
-      </a>
-      <br />
-      <b>Ameaozon</b>
-      <p>an eCommerce application</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/RahatGithub/velo-SaaS">
-        <img src="https://github.com/RahatGithub/velo-SaaS/blob/main/static/img/velo-cover.png?raw=true" width="400px;" alt="Velo SaaS"/>
-      </a>
-      <br />
-      <b>Velo SaaS</b>
-      <p>Multi-tenant project management app</p>
-    </td>
-    <td align="center" width="50%">
       <a href="https://github.com/RahatGithub/velo-SaaS">
         <img src="https://github.com/RahatGithub/shopflow-SaaS/blob/main/static/img/shopflow-cover.png?raw=true" width="400px;" alt="shopflow SaaS"/>
       </a>
@@ -233,23 +207,13 @@ I write code I'd want to maintain. I ship things that work.
       <b>ShopFlow SaaS</b>
       <p>Multi-tenant Inventory + POS app</p>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/RahatGithub/QBoard">
-        <img src="https://github.com/RahatGithub/QBoard/blob/main/static/img/Qboard.png" width="400px;" alt="QBoard"/>
+      <a href="https://github.com/RahatGithub/velo-SaaS">
+        <img src="https://github.com/RahatGithub/velo-SaaS/blob/main/static/img/velo-cover.png?raw=true" width="400px;" alt="Velo SaaS"/>
       </a>
       <br />
-      <b>QBoard</b>
-      <p>RESTful API for dashboard data</p>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/RahatGithub/QuizWiz-Flask">
-        <img src="https://github.com/RahatGithub/QuizWiz-Flask/blob/main/app/static/img/QuizWiz.png" width="400px;" alt="QuizWiz"/>
-      </a>
-      <br />
-      <b>QuizWiz</b>
-      <p>an interesting quiz game</p>
+      <b>Velo SaaS</b>
+      <p>Multi-tenant project management app</p>
     </td>
   </tr>
   <tr>
@@ -262,12 +226,48 @@ I write code I'd want to maintain. I ship things that work.
       <p>university result management system</p>
     </td>
     <td align="center" width="50%">
+      <a href="https://github.com/RahatGithub/studynest">
+        <img src="https://github.com/RahatGithub/studynest/blob/main/static/images/thumbnail.png" width="400px;" alt="StudyNest"/>
+      </a>
+      <br />
+      <b>StudyNest</b>
+      <p>an eLearning application</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/RahatGithub/ameaozon">
+        <img src="https://github.com/RahatGithub/ameaozon/blob/main/static/images/thumbnail.png" width="400px;" alt="Ameaozon"/>
+      </a>
+      <br />
+      <b>Ameaozon</b>
+      <p>an eCommerce application</p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/RahatGithub/QuizWiz-Flask">
+        <img src="https://github.com/RahatGithub/QuizWiz-Flask/blob/main/app/static/img/QuizWiz.png" width="400px;" alt="QuizWiz"/>
+      </a>
+      <br />
+      <b>QuizWiz</b>
+      <p>an interesting quiz game</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <a href="https://github.com/RahatGithub/fithub-gym-app">
         <img src="https://github.com/RahatGithub/fithub-gym-app/blob/main/src/assets/thumbnail.png" width="400px;" alt="Fithub"/>
       </a>
       <br />
       <b>FitHub</b>
       <p>a gym subscription app</p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/RahatGithub/QBoard">
+        <img src="https://github.com/RahatGithub/QBoard/blob/main/static/img/Qboard.png" width="400px;" alt="QBoard"/>
+      </a>
+      <br />
+      <b>QBoard</b>
+      <p>RESTful API for dashboard data</p>
     </td>
   </tr>
 </table>
