@@ -1,6 +1,6 @@
 ### Hi, it's Rahat!
 
-#### Full-stack developer with hands-on experience designing and building production-grade SaaS platforms, e-commerce systems, and management applications. Proficient across the modern stack — React, Next.js, Node.js, Django — with a strong interest in multi-tenant SaaS architecture, real-time systems, and scalable backends. IEEE-published researcher in blockchain. Seeking a full-stack developer role to ship impactful products and grow alongside an ambitious team.
+#### Full-stack developer with hands-on experience designing and building production-grade SaaS platforms, e-commerce systems, and management applications. Proficient across the modern stack — React, Next.js, Node.js, Django — with a strong interest in multi-tenant SaaS architecture, real-time systems, and scalable backends. 
 
 #### Check my Linkedin profile : www.linkedin.com/in/rahat-ahmed-chowdhury/ 
 
