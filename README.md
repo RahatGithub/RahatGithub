@@ -282,7 +282,7 @@ I write code I'd want to maintain. I ship things that work.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RahatGithub&show_icons=true&hide_border=true&bg_color=0d1b2a&title_color=00f5ff&icon_color=a855f7&text_color=cbd5e1&include_all_commits=true" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RahatGithub&show_icons=true&hide_border=true&bg_color=0d1b2a&title_color=00f5ff&icon_color=a855f7&text_color=cbd5e1&count_private=true" height="170" alt="GitHub Stats"/>
 &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com?user=RahatGithub&hide_border=true&background=0d1b2a&stroke=a855f7&ring=00f5ff&fire=ec4899&currStreakLabel=00f5ff&sideLabels=cbd5e1&dates=cbd5e1&currStreakNum=ffffff&sideNums=a855f7" height="170" alt="GitHub Streak"/>
 
