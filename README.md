@@ -27,7 +27,7 @@
       <p>an eCommerce application</p>
     </td>
   </tr>
-  
+   [![Velo SaaS](https://raw.githubusercontent.com/RahatGithub/velo-SaaS/main/docs/img/velo-cover.png)](https://github.com/RahatGithub/velo-SaaS) 
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/RahatGithub/QBoard">
