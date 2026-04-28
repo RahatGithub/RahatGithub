@@ -1,6 +1,6 @@
 ### Hi, it's Rahat!
 
-#### Enthusiastic and adaptable Computer Science graduate and Pythonista with hands-on experience in web development, software engineering, and IT operations. Skilled in both frontend and backend technologies, with a strong foundation in software engineering, databases, AI, and project management. Proven ability to work in teams, communicate effectively, and turn ideas into working solutions.
+#### Full-stack developer with hands-on experience designing and building production-grade SaaS platforms, e-commerce systems, and management applications. Proficient across the modern stack — React, Next.js, Node.js, Django — with a strong interest in multi-tenant SaaS architecture, real-time systems, and scalable backends. IEEE-published researcher in blockchain. Seeking a full-stack developer role to ship impactful products and grow alongside an ambitious team.
 
 #### Check my Linkedin profile : www.linkedin.com/in/rahat-ahmed-chowdhury/ 
 
