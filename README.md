@@ -29,7 +29,7 @@
   </tr>
    <td align="center" width="50%">
     <a href="https://github.com/RahatGithub/velo-SaaS">                                                                                                                                                                    
-      <img src="https://raw.githubusercontent.com/RahatGithub/velo-SaaS/main/docs/img/velo-cover.png" width="400px;" alt="Velo SaaS"/>    
+      <img src="https://github.com/RahatGithub/velo-SaaS/blob/main/static/img/velo-cover.png?raw=true" width="400px;" alt="Velo SaaS"/>   
     </a>                                                                                                                                                                                                                   
     <br />                                                        
     <b>Velo SaaS</b>
