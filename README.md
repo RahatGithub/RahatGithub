@@ -35,6 +35,14 @@
     <b>Velo SaaS</b>
     <p>Multi-tenant project management app</p>
   </td>
+  <td align="center" width="50%">
+    <a href="https://github.com/RahatGithub/velo-SaaS">                                                                                                                                                                    
+      <img src="https://github.com/RahatGithub/shopflow-SaaS/blob/main/static/img/shopflow-cover.png?raw=true" width="400px;" alt="shopflow SaaS"/>   
+    </a>                                                                                                                                                                                                                   
+    <br />                                                        
+    <b>ShopFlow SaaS</b>
+    <p>Multi-tenant Inventory + POS app</p>
+  </td>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/RahatGithub/QBoard">
