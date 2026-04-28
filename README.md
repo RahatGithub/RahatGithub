@@ -126,9 +126,8 @@
       <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
       <animate attributeName="r" values="4;5;4" dur="2s" repeatCount="indefinite"/>
     </circle>
-    <text x="540" y="275" font-family="'Courier New', monospace" font-size="13" fill="#10b981" letter-spacing="3">
-      ONLINE
-    </text>
+
+    
     <line x1="600" y1="270" x2="610" y2="270" stroke="#475569" stroke-width="1"/>
     <text x="620" y="275" font-family="'Courier New', monospace" font-size="13" fill="#94a3b8" letter-spacing="3">
       OPEN TO WORK
