@@ -115,7 +115,7 @@
         fill="#cbd5e1"
         letter-spacing="4"
         opacity="0">
-    full-stack developer · saas architect · scalable systems
+    Full-stack Developer · Building Modern SaaS Products
     <animate attributeName="opacity" from="0" to="0.85" dur="1.5s" begin="3s" fill="freeze"/>
   </text>
 
@@ -142,6 +142,9 @@
 
 <div align="center">
 
+<a href="https://rahat.tech-noverse.com">
+  <img src="https://img.shields.io/badge/Portfolio-0a0e27?style=for-the-badge&logo=vercel&logoColor=10b981&labelColor=0a0e27" alt="Portfolio"/>
+</a>
 <a href="https://www.linkedin.com/in/rahat-ahmed-chowdhury/">
   <img src="https://img.shields.io/badge/LinkedIn-0a0e27?style=for-the-badge&logo=linkedin&logoColor=00f5ff&labelColor=0a0e27" alt="LinkedIn"/>
 </a>
@@ -298,6 +301,10 @@ Open to collaboration, full-time roles, and ambitious projects. The fastest way 
 
 <div align="center">
 
+<a href="https://rahat.tech-noverse.com">
+  <img src="https://img.shields.io/badge/View_Portfolio-0d1b2a?style=for-the-badge&logo=vercel&logoColor=10b981&labelColor=0d1b2a" alt="Portfolio"/>
+</a>
+&nbsp;
 <a href="mailto:rahatahmedchy01@gmail.com">
   <img src="https://img.shields.io/badge/Send_a_message-0d1b2a?style=for-the-badge&logo=gmail&logoColor=ec4899&labelColor=0d1b2a" alt="Email"/>
 </a>
