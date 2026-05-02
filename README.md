@@ -115,7 +115,7 @@
         fill="#cbd5e1"
         letter-spacing="4"
         opacity="0">
-    Full-stack Developer · Building Modern SaaS Products
+    Full-stack Developer · Building Modern SaaS Applications
     <animate attributeName="opacity" from="0" to="0.85" dur="1.5s" begin="3s" fill="freeze"/>
   </text>
 
