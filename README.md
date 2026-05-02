@@ -143,13 +143,16 @@
 <div align="center">
 
 <a href="https://rahat.tech-noverse.com">
-  <img src="https://img.shields.io/badge/Portfolio-0a0e27?style=for-the-badge&logo=vercel&logoColor=10b981&labelColor=0a0e27" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-0a0e27?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0e27" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/rahat-ahmed-chowdhury/">
-  <img src="https://img.shields.io/badge/LinkedIn-0a0e27?style=for-the-badge&logo=linkedin&logoColor=00f5ff&labelColor=0a0e27" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0a0e27?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e27" alt="LinkedIn"/>
 </a>
 <a href="mailto:rahatahmedchy01@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0a0e27?style=for-the-badge&logo=gmail&logoColor=ec4899&labelColor=0a0e27" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-0a0e27?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e27" alt="Email"/>
+</a>
+<a href="https://github.com/RahatGithub">
+  <img src="https://img.shields.io/badge/GitHub-0a0e27?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub"/>
 </a>
 
 </div>
