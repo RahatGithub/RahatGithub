@@ -194,7 +194,7 @@ I write code I'd want to maintain. I ship things that work.
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/RahatGithub/velo-SaaS">
+      <a href="https://github.com/RahatGithub/shopflow-SaaS">
         <img src="https://github.com/RahatGithub/shopflow-SaaS/blob/main/static/img/shopflow-cover.png?raw=true" width="400px;" alt="shopflow SaaS"/>
       </a>
       <br />
